@@ -96,7 +96,7 @@ const Data = [
   },
   {
     id: 8,
-    image: logo10,
+    image: logo8,
     title: "UI/UX Designer",
     time: "14Hrs",
     location: "New Jarsey",
@@ -105,13 +105,14 @@ const Data = [
   },
   {
     id: 9,
-    image: logo11,
-    title: "C++ Engineer",
-    time: "15Hrs",
+    image: logo9,
+    title: "UI/UX Designer",
+    time: "14Hrs",
     location: "New Jarsey",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, incidunt.",
     company: "A3 Solution",
   },
+
   {
     id: 10,
     image: logo10,
@@ -172,6 +173,15 @@ const Data = [
     title: "UI/UX Designer",
     time: "12Hrs",
     location: "India",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, incidunt.",
+    company: "A3 Solution",
+  },
+  {
+    id: 17,
+    image: logo17,
+    title: "MERN Stack Developer",
+    time: "13Hrs",
+    location: "USA",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, incidunt.",
     company: "A3 Solution",
   },
