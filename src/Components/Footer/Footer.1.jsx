@@ -3,7 +3,7 @@ import img21 from "../../assets/airbnb.png";
 
 export const Footer = () => {
   return (
-    <>
+    <div className=" mt-96">
       <footer class="bg-gradient-to-r from-gray-100 via-[#bce1ff] to-gray-100">
         <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
           <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
@@ -202,6 +202,6 @@ export const Footer = () => {
           <p class="mt-8 text-xs text-gray-800">© 2023 Dune Ltd</p>
         </div>
       </footer>
-    </>
+    </div>
   );
 };

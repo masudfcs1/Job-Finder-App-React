@@ -6,7 +6,7 @@ import Value from "./Components/Value/Value";
 
 function App() {
   return (
-    <div className="mx-auto">
+    <div className=" w-[85%] mx-auto bg-white">
       <Navbar />
       <Search />
       <Jobs />
