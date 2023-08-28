@@ -6,13 +6,13 @@ import Value from "./Components/Value/Value";
 
 function App() {
   return (
-    <>
+    <div className="mx-auto">
       <Navbar />
       <Search />
       <Jobs />
       <Value />
       <Footer />
-    </>
+    </div>
   );
 }
 
