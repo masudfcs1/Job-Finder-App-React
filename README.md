@@ -1,4 +1,4 @@
-# React + Vite
+# Job-Finder-App-React
 
 ![1](https://github.com/masudfcs1/Job-Finder-App-React/assets/57311382/e96401fc-ba91-4a45-bab5-137839319443)
 ![2](https://github.com/masudfcs1/Job-Finder-App-React/assets/57311382/3b58d30e-da04-4e46-a049-8e145e24e471)
